@@ -1,0 +1,17 @@
+path: E:\yolo数据集\yolo26_obb_dataset
+train: train/images
+val: train/images
+
+names:
+  0: 粗糙度类
+  1: 形位公差类
+  2: R类
+  3: 倒角类
+  4: 螺纹类
+  5: 孔类
+  6: 直径类
+  7: 公差类
+  8: 角度类
+  9: 纯数字类
+  10: 其他类
+  11: 未识别类
